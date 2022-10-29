@@ -9,16 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/pawankhated" target="blank"><img align="center" src="assets/codepen.svg" alt="pawankhated" height="30" width="40" /></a>
 <a href="https://dev.to/pawankhated" target="blank"><img align="center" src="assets/devto.svg" alt="pawankhated" height="30" width="40" /></a>
-<a href="https://twitter.com/pawankhated" target="blank"><img align="center" src="assets/twitter.svg" alt="pawankhated" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pawankhated" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="pawankhated" height="30" width="40" /></a>
 <a href="[https://stackoverflow.com/users/pawankhated](https://softwarerecs.stackexchange.com/users/78829/pawan-jain)" target="blank"><img align="center" src="assets/stack-overflow.svg" alt="pawankhated" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pawankhated" target="blank"><img align="center" src="assets/codesandbox.svg" alt="pawankhated" height="30" width="40" /></a>
 <a href="https://fb.com/pawanjain11" target="blank"><img align="center" src="assets/facebook.svg" alt="pawanjain11" height="30" width="40" /></a>
-<a href="https://instagram.com/pawanjain11" target="blank"><img align="center" src="assets/instagram.svg" alt="pawanjain11" height="30" width="40" /></a>
-<a href="https://medium.com/@pawankhated" target="blank"><img align="center" src="assets/medium.svg" alt="@pawankhated" height="30" width="40" /></a>
-<a href="/pawanjain11" target="blank"><img align="center" src="assets/rss.svg" alt="pawanjain11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
