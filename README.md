@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pawan Khated</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankhated&label=Profile%20views&color=0e75b6&style=flat" alt="pawankhated" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawankhated" alt="pawankhated" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pawanjain15" target="blank"><img src="https://img.shields.io/twitter/follow/pawanjain15?logo=twitter&style=for-the-badge" alt="pawanjain15" /></a> </p>
-
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --> 
 
