@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://dev.to/pawankhated" target="blank"><img align="center" src="assets/devto.svg" alt="pawankhated" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pawankhated" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="pawankhated" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/pawankhated](https://softwarerecs.stackexchange.com/users/78829/pawan-jain)" target="blank"><img align="center" src="assets/stack-overflow.svg" alt="pawankhated" height="30" width="40" /></a>
+<a href="https://softwarerecs.stackexchange.com/users/78829/pawan-jain" target="blank"><img align="center" src="assets/stack-overflow.svg" alt="pawankhated" height="30" width="40" /></a>
 <a href="https://fb.com/pawanjain11" target="blank"><img align="center" src="assets/facebook.svg" alt="pawanjain11" height="30" width="40" /></a>
 </p>
 
